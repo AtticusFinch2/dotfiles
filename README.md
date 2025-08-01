@@ -1,4 +1,4 @@
-These are jsut my dotfiles for convenience, have fun!
+These are just my dotfiles for convenience, have fun!
 
 Distro: Linux Mint
 
